@@ -3,6 +3,11 @@ Amiga es una tipografía creada por Blanca, Chiara, Elena, Elvira, Miquel, Nicol
 # Caracteres aleatorios
 Consulta el documento <a href="https://github.com/librosamigos/Amiga/blob/master/Co%CC%81mo%20funcionan%20los%20caracteres%20aleatorios.pdf">Cómo funcionan los caracteres aleatorios.pdf</a> para aprender a usar la funcionalidad de caracteres aleatorios.
 
+<img src="https://librosmutantes.com/assets/amigos/AMIGA.png">
+<img src="https://librosmutantes.com/assets/amigos/AMIGA2.png">
+<img src="https://librosmutantes.com/assets/amigos/AMIGA3.png">
+<img src="https://librosmutantes.com/assets/amigos/AMIGA4.png">
+
 -----------------------------------------------------------
 
 Copyright (c) 2019 Libros Amigos
